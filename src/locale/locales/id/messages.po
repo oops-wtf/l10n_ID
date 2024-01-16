@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-social-app-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-01-16 19:18\n"
+"PO-Revision-Date: 2024-01-16 20:13\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -45,7 +45,7 @@ msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:632
 msgid "{following} following"
-msgstr ""
+msgstr "{following} mengikuti"
 
 #: src/view/shell/desktop/RightNav.tsx:151
 msgid "{invitesAvailable, plural, one {Invite codes: # available} other {Invite codes: # available}}"
@@ -103,7 +103,7 @@ msgstr "<0>Ikuti</0><1>Rekomendasi</1><2>Pengguna</2>"
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:21
 msgid "<0>Welcome to</0><1>Bluesky</1>"
-msgstr ""
+msgstr "<0>Selamat datang di</0><1>Bluesky</1>"
 
 #: src/view/com/profile/ProfileHeader.tsx:597
 msgid "⚠Invalid Handle"
