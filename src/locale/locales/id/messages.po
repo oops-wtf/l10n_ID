@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bsky-social-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-01-17 07:52\n"
+"PO-Revision-Date: 2024-01-17 09:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -28,7 +28,7 @@ msgstr ""
 
 #: src/view/com/modals/VerifyEmail.tsx:142
 msgid "(no email)"
-msgstr ""
+msgstr "(Tidak ada email)"
 
 #: src/view/shell/desktop/RightNav.tsx:168
 msgid "{0, plural, one {# invite code available} other {# invite codes available}}"
@@ -37,7 +37,7 @@ msgstr "{0, plural, one {# kode undangan tersedia} other {# kode undangan tersed
 #: src/view/com/modals/CreateOrEditList.tsx:185
 #: src/view/screens/Settings.tsx:294
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: src/view/com/modals/CreateOrEditList.tsx:176
 #~ msgid "{0} {purposeLabel} List"
@@ -45,7 +45,7 @@ msgstr ""
 
 #: src/view/com/profile/ProfileHeader.tsx:632
 msgid "{following} following"
-msgstr ""
+msgstr "{following} mengikuti"
 
 #: src/view/shell/desktop/RightNav.tsx:151
 msgid "{invitesAvailable, plural, one {Invite codes: # available} other {Invite codes: # available}}"
@@ -63,7 +63,7 @@ msgstr "{invitesAvailable} kode undangan tersedia"
 
 #: src/view/screens/Search/Search.tsx:87
 msgid "{message}"
-msgstr ""
+msgstr "{message}"
 
 #: src/view/shell/Drawer.tsx:440
 msgid "{numUnreadNotifications} unread"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: src/Navigation.tsx:147
 msgid "@{0}"
-msgstr ""
+msgstr "@{0}"
 
 #: src/view/com/threadgate/WhoCanReply.tsx:158
 msgid "<0/> members"
@@ -103,7 +103,7 @@ msgstr "<0>Ikuti</0><1>Rekomendasi</1><2>Pengguna</2>"
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:21
 msgid "<0>Welcome to</0><1>Bluesky</1>"
-msgstr ""
+msgstr "<0>Selamat datang di</0><1>Bluesky</1>"
 
 #: src/view/com/profile/ProfileHeader.tsx:597
 msgid "⚠Invalid Handle"
@@ -467,7 +467,7 @@ msgstr ""
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:31
 msgid "Bluesky"
-msgstr ""
+msgstr "Bluesky"
 
 #: src/view/com/auth/onboarding/WelcomeDesktop.tsx:80
 #: src/view/com/auth/onboarding/WelcomeMobile.tsx:80
