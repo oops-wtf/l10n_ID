@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bsky-social-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-01-17 09:44\n"
+"PO-Revision-Date: 2024-01-22 16:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -265,7 +265,7 @@ msgstr ""
 
 #: src/view/com/composer/photos/Gallery.tsx:130
 msgid "ALT"
-msgstr ""
+msgstr "ALT"
 
 #: src/view/com/modals/EditImage.tsx:315
 msgid "Alt text"
@@ -463,7 +463,7 @@ msgstr "Blokir bersifat publik. Akun yang diblokir tidak dapat membalas postinga
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:93
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: src/view/com/auth/HomeLoggedOutCTA.tsx:31
 msgid "Bluesky"
@@ -494,7 +494,7 @@ msgstr "Bluesky tidak akan menampilkan profil dan postingan Anda ke pengguna yan
 
 #: src/view/com/modals/ServerInput.tsx:78
 msgid "Bluesky.Social"
-msgstr ""
+msgstr "Bluesky.Social"
 
 #: src/view/screens/Settings.tsx:792
 msgid "Build version {0} {1}"
@@ -1156,7 +1156,7 @@ msgstr ""
 #: src/view/com/modals/ChangeEmail.tsx:141
 #: src/view/com/modals/Waitlist.tsx:88
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: src/view/com/auth/create/Step2.tsx:99
 #: src/view/com/auth/login/ForgotPasswordForm.tsx:143
@@ -1178,7 +1178,7 @@ msgstr ""
 
 #: src/view/screens/Settings.tsx:312
 msgid "Email:"
-msgstr ""
+msgstr "Email:"
 
 #: src/view/com/modals/EmbedConsent.tsx:113
 msgid "Enable {0} only"
@@ -1330,7 +1330,7 @@ msgstr ""
 
 #: src/view/screens/Feeds.tsx:560
 msgid "Feed offline"
-msgstr ""
+msgstr "Feed offline"
 
 #: src/view/com/feeds/FeedPage.tsx:143
 msgid "Feed Preferences"
@@ -1513,7 +1513,7 @@ msgstr "Berikutnya"
 
 #: src/view/com/modals/ChangeHandle.tsx:265
 msgid "Handle"
-msgstr ""
+msgstr "Handle"
 
 #: src/view/shell/desktop/RightNav.tsx:102
 #: src/view/shell/Drawer.tsx:321
@@ -1967,7 +1967,7 @@ msgstr "Pastikan ini adalah website yang Anda tuju!"
 
 #: src/view/screens/Profile.tsx:163
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #: src/view/com/threadgate/WhoCanReply.tsx:139
 msgid "mentioned users"
@@ -1980,7 +1980,7 @@ msgstr "Pengguna yang disebutkan"
 #: src/view/com/util/ViewHeader.tsx:81
 #: src/view/screens/Search/Search.tsx:537
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: src/view/com/posts/FeedErrorMessage.tsx:194
 #~ msgid "Message from server"
@@ -3401,7 +3401,7 @@ msgstr "Persegi"
 #: src/view/com/auth/create/Step1.tsx:90
 #: src/view/com/modals/ServerInput.tsx:62
 msgid "Staging"
-msgstr ""
+msgstr "Staging"
 
 #: src/view/screens/Settings.tsx:804
 msgid "Status page"
@@ -3417,7 +3417,7 @@ msgstr ""
 
 #: src/view/screens/Settings.tsx:740
 msgid "Storybook"
-msgstr ""
+msgstr "Storybook"
 
 #: src/view/com/modals/AppealLabel.tsx:101
 msgid "Submit"
