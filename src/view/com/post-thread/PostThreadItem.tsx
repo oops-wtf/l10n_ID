@@ -248,10 +248,15 @@ let PostThreadItemLoaded = ({
           </View>
         )}
 
-        <Link
+        <View
           testID={`postThreadItem-by-${post.author.handle}`}
-          style={[styles.outer, styles.outerHighlighted, pal.border, pal.view]}
-          noFeedback
+          style={[
+            styles.outer,
+            styles.outerHighlighted,
+            rootUri === post.uri && styles.outerHighlightedRoot,
+            pal.border,
+            pal.view,
+          ]}
           accessible={false}>
           <PostSandboxWarning />
           <View style={styles.layout}>
@@ -370,6 +375,7 @@ let PostThreadItemLoaded = ({
                     richText={richText}
                     lineHeight={1.3}
                     style={s.flex1}
+                    selectable
                   />
                 </View>
               ) : undefined}
@@ -445,7 +451,7 @@ let PostThreadItemLoaded = ({
               />
             </View>
           </View>
-        </Link>
+        </View>
         <WhoCanReply post={post} />
       </>
     )
@@ -706,7 +712,7 @@ function ExpandedPostDetails({
       <Text style={pal.textLight}>{niceDate(post.indexedAt)}</Text>
       {needsTranslation && (
         <>
-          <Text style={[pal.textLight, s.ml5, s.mr5]}>•</Text>
+          <Text style={pal.textLight}> &middot; </Text>
           <Link href={translatorUrl} title={_(msg`Translate`)}>
             <Text style={pal.link}>
               <Trans>Translate</Trans>
@@ -726,9 +732,14 @@ const useStyles = () => {
       paddingLeft: 8,
     },
     outerHighlighted: {
-      paddingTop: 16,
+      borderTopWidth: 0,
+      paddingTop: 4,
       paddingLeft: 8,
       paddingRight: 8,
+    },
+    outerHighlightedRoot: {
+      borderTopWidth: 1,
+      paddingTop: 16,
     },
     noTopBorder: {
       borderTopWidth: 0,
