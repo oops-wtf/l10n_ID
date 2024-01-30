@@ -1,0 +1,1 @@
+Terjemahan bsky.app ke dalam bahasa Indonesia

@@ -1,0 +1,28 @@
+name: Fetch new changes from upstream
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '43 4 * * *'
+
+concurrency:
+  group: fetch
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: |
+          git config --global user.email "automation@github.com"
+          git config --global user.name "fetch_upstream.yml"
+          git remote add upstream https://github.com/bluesky-social/social-app.git
+          git fetch upstream main
+          git checkout --track origin/main
+          git rebase upstream/main
+          git push -f origin HEAD
