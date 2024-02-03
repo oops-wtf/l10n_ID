@@ -8,7 +8,7 @@ jobs:
         with:
           fetch-depth: 0
       - run: |
-          git remote add upstream https://github.com/kodebanget/bsky-social-app.git
+          git remote add upstream https://github.com/kodebanget/bluesky-social-app.git
           git fetch upstream main
           FILE_IS_UPDATED=$(git diff --compact-summary main upstream/main | grep 'id/messages.po')
           echo $FILE_IS_UPDATED
