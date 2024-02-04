@@ -16,6 +16,6 @@ jobs:
           if [ "$FILE_IS_UPDATED" != "" ]; then
             git config user.email "151415765+kodebanget@users.noreply.github.com"
             git config user.name "kemarau"
-            git merge upstream/main
+            git rebase upstream/main
             git push origin main
           fi
