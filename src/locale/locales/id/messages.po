@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bsky-social-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-02-04 06:28\n"
+"PO-Revision-Date: 2024-02-04 07:32\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1388,7 +1388,7 @@ msgstr "Preferensi Feed"
 #: src/view/shell/desktop/RightNav.tsx:73
 #: src/view/shell/Drawer.tsx:314
 msgid "Feedback"
-msgstr "Masukan"
+msgstr "Umpan balik"
 
 #: src/Navigation.tsx:443
 #: src/view/screens/Feeds.tsx:514
@@ -2250,7 +2250,7 @@ msgstr "Tidak akan lagi kehilangan akses ke data dan pengikut Anda."
 
 #: src/screens/Onboarding/StepFinished.tsx:119
 msgid "Never lose access to your followers or data."
-msgstr ""
+msgstr "Jangan pernah kehilangan akses ke pengikut atau data Anda."
 
 #: src/view/screens/Lists.tsx:76
 msgctxt "action"
