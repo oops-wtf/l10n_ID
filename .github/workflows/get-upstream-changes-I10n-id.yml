@@ -11,6 +11,7 @@ jobs:
       - run: git remote add upstream https://github.com/kodebanget/bluesky-social-app.git
       - run: git fetch upstream main
       - run: |
+          git checkout main
           FILE_IS_UPDATED=$(git diff --compact-summary main upstream/main | grep 'id/messages.po')
           echo $FILE_IS_UPDATED
           if [ "$FILE_IS_UPDATED" != "" ]; then
