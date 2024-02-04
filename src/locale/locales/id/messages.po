@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bsky-social-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-02-04 06:20\n"
+"PO-Revision-Date: 2024-02-04 06:28\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -262,7 +262,7 @@ msgstr "dan"
 
 #: src/screens/Onboarding/index.tsx:32
 msgid "Animals"
-msgstr ""
+msgstr "Binatang"
 
 #: src/view/screens/LanguageSettings.tsx:95
 msgid "App Language"
