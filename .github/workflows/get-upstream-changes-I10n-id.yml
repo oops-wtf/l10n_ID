@@ -14,6 +14,8 @@ jobs:
           FILE_IS_UPDATED=$(git diff --compact-summary origin/main upstream/main | grep 'id/messages.po')
           echo $FILE_IS_UPDATED
           if [ "$FILE_IS_UPDATED" != "" ]; then
+            git config user.email "151415765+kodebanget@users.noreply.github.com"
+            git config user.name "kemarau"
             git merge upstream/main
             git push origin main
           fi
