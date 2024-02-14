@@ -1,21 +1,26 @@
 name: pull upstream changes for new untranslated strings (ID)
 run-name: pull upstream changes for new untranslated strings (ID)
+
 on: [push]
+
+concurrency:
+  group: fetch
+
+permissions:
+  contents: write
+
 jobs:
-  pull-new-strings:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - run: git remote add upstream https://github.com/bluesky-social/social-app.git
-      - run: git fetch upstream main
       - run: |
-          FILE_IS_UPDATED=$(git diff --compact-summary origin/main upstream/main | grep 'id/messages.po')
-          echo $FILE_IS_UPDATED
-          if [ "$FILE_IS_UPDATED" != "" ]; then
-            git config user.email "151415765+kodebanget@users.noreply.github.com"
-            git config user.name "kemarau"
-            git rebase upstream/main
-            git push origin main
-          fi
+          git config --global user.email "automation@github.com"
+          git config --global user.name "get-upstream-changes-I10n-id.yml"
+          git remote add upstream https://github.com/bluesky-social/social-app.git
+          git fetch upstream main
+          git checkout --track origin/main
+          git rebase upstream/main
+          git push -f origin HEAD
