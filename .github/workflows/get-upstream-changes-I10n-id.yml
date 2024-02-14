@@ -1,7 +1,10 @@
 name: pull upstream changes for new untranslated strings (ID)
 run-name: pull upstream changes for new untranslated strings (ID)
 
-on: [push]
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '43 4 * * *'
 
 concurrency:
   group: fetch
