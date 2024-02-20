@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bsky-social-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-02-18 05:08\n"
+"PO-Revision-Date: 2024-02-20 17:29\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -890,7 +890,7 @@ msgstr ""
 
 #: src/screens/Onboarding/index.tsx:44
 msgid "Cooking"
-msgstr ""
+msgstr "Memasak"
 
 #: src/view/com/modals/AddAppPasswords.tsx:195
 #: src/view/com/modals/InviteCodes.tsx:182
@@ -989,7 +989,7 @@ msgstr "Buat kartu dengan gambar kecil. Tautan kartu ke {url}"
 
 #: src/screens/Onboarding/index.tsx:29
 msgid "Culture"
-msgstr ""
+msgstr "Budaya"
 
 #: src/view/com/auth/server-input/index.tsx:95
 #: src/view/com/auth/server-input/index.tsx:96
@@ -1024,7 +1024,7 @@ msgstr "Mode gelap"
 
 #: src/view/screens/Settings/index.tsx:498
 msgid "Dark Theme"
-msgstr ""
+msgstr "Tema Gelap"
 
 #: src/view/screens/Debug.tsx:83
 msgid "Debug panel"
@@ -1058,7 +1058,7 @@ msgstr "Hapus akun saya"
 
 #: src/view/screens/Settings/index.tsx:784
 msgid "Delete My Account…"
-msgstr ""
+msgstr "Hapus Akun Saya…"
 
 #: src/view/com/util/forms/PostDropdownBtn.tsx:228
 msgid "Delete post"
@@ -1093,7 +1093,7 @@ msgstr "Apakah Anda ingin mengatakan sesuatu?"
 
 #: src/view/screens/Settings/index.tsx:504
 msgid "Dim"
-msgstr ""
+msgstr "Redupkan"
 
 #: src/view/com/composer/Composer.tsx:144
 msgid "Discard"
@@ -1272,7 +1272,7 @@ msgstr "Ubah deskripsi profil Anda"
 
 #: src/screens/Onboarding/index.tsx:34
 msgid "Education"
-msgstr ""
+msgstr "Pendidikan"
 
 #: src/view/com/auth/create/Step1.tsx:199
 #: src/view/com/auth/login/ForgotPasswordForm.tsx:156
@@ -1342,7 +1342,7 @@ msgstr "Masukkan Kode Konfirmasi"
 
 #: src/view/com/modals/ChangePassword.tsx:151
 msgid "Enter the code you received to change your password."
-msgstr ""
+msgstr "Masukkan kode yang Anda terima untuk ubah sandi."
 
 #: src/view/com/modals/ChangeHandle.tsx:371
 msgid "Enter the domain you want to use"
@@ -1383,7 +1383,7 @@ msgstr "Masukkan nama pengguna dan kata sandi Anda"
 
 #: src/view/com/auth/create/Step3.tsx:67
 msgid "Error receiving captcha response."
-msgstr ""
+msgstr "Gagal menerima respons captcha."
 
 #: src/view/screens/Search/Search.tsx:109
 msgid "Error:"
@@ -1583,7 +1583,7 @@ msgstr "Ikuti {0}"
 
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:179
 msgid "Follow All"
-msgstr ""
+msgstr "Ikuti Semua"
 
 #: src/screens/Onboarding/StepSuggestedAccounts/index.tsx:174
 msgid "Follow selected accounts and continue to the next step"
@@ -1633,7 +1633,7 @@ msgstr "Mengikuti Anda"
 
 #: src/screens/Onboarding/index.tsx:43
 msgid "Food"
-msgstr ""
+msgstr "Makanan"
 
 #: src/view/com/modals/DeleteAccount.tsx:111
 msgid "For security reasons, we'll need to send a confirmation code to your email address."
@@ -1687,7 +1687,7 @@ msgstr "Kembali"
 #: src/screens/Onboarding/Layout.tsx:104
 #: src/screens/Onboarding/Layout.tsx:193
 msgid "Go back to previous step"
-msgstr ""
+msgstr "Kembali ke langkah sebelumnya"
 
 #: src/view/screens/Search/Search.tsx:724
 #: src/view/shell/desktop/Search.tsx:262
@@ -1963,7 +1963,7 @@ msgstr "Gabung ke Daftar Tunggu"
 
 #: src/screens/Onboarding/index.tsx:24
 msgid "Journalism"
-msgstr ""
+msgstr "Jurnalisme"
 
 #: src/view/com/composer/select-language/SelectLangBtn.tsx:104
 msgid "Language selection"
@@ -2018,7 +2018,7 @@ msgstr "Meninggalkan Bluesky"
 
 #: src/screens/Deactivated.tsx:128
 msgid "left to go."
-msgstr ""
+msgstr "tersisa."
 
 #: src/view/screens/Settings/index.tsx:278
 msgid "Legacy storage cleared, you need to restart the app now."
@@ -2031,7 +2031,7 @@ msgstr "Reset kata sandi Anda!"
 
 #: src/screens/Onboarding/StepFinished.tsx:151
 msgid "Let's go!"
-msgstr ""
+msgstr "Ayo!"
 
 #: src/view/com/util/UserAvatar.tsx:248
 #: src/view/com/util/UserBanner.tsx:62
@@ -2058,7 +2058,7 @@ msgstr "Disukai oleh"
 #: src/view/screens/PostLikedBy.tsx:27
 #: src/view/screens/ProfileFeedLikedBy.tsx:27
 msgid "Liked By"
-msgstr ""
+msgstr "Disukai Oleh"
 
 #: src/view/com/feeds/FeedSourceCard.tsx:277
 msgid "Liked by {0} {1}"
@@ -2070,7 +2070,7 @@ msgstr "Disukai oleh {likeCount} {0}"
 
 #: src/view/com/notifications/FeedItem.tsx:170
 msgid "liked your custom feed"
-msgstr ""
+msgstr "sukai umpan buatanmu"
 
 #: src/view/com/notifications/FeedItem.tsx:155
 msgid "liked your post"
@@ -2161,7 +2161,7 @@ msgstr "Catatan"
 #: src/screens/Deactivated.tsx:178
 #: src/screens/Deactivated.tsx:181
 msgid "Log out"
-msgstr ""
+msgstr "Keluar"
 
 #: src/view/screens/Moderation.tsx:136
 msgid "Logged-out visibility"
@@ -2326,7 +2326,7 @@ msgstr "Feed Tersimpan Saya"
 
 #: src/view/com/auth/server-input/index.tsx:118
 msgid "my-server.com"
-msgstr ""
+msgstr "server-saya.com"
 
 #: src/view/com/modals/AddAppPasswords.tsx:179
 #: src/view/com/modals/CreateOrEditList.tsx:290
@@ -3403,7 +3403,7 @@ msgstr "Kirim email dengan kode konfirmasi untuk penghapusan akun"
 
 #: src/view/com/auth/server-input/index.tsx:110
 msgid "Server address"
-msgstr ""
+msgstr "Alamat server"
 
 #: src/view/com/modals/ContentFilteringSettings.tsx:311
 msgid "Set {value} for {labelGroup} content moderation policy"
@@ -3429,11 +3429,11 @@ msgstr "Atur tema warna ke pengaturan sistem"
 
 #: src/view/screens/Settings/index.tsx:514
 msgid "Set dark theme to the dark theme"
-msgstr ""
+msgstr "Pasang tema gelap untuk tema gelap"
 
 #: src/view/screens/Settings/index.tsx:507
 msgid "Set dark theme to the dim theme"
-msgstr ""
+msgstr "Ganti tema gelap ke tema redup"
 
 #: src/view/com/auth/login/SetNewPasswordForm.tsx:104
 msgid "Set new password"
@@ -3465,7 +3465,7 @@ msgstr "Pilih \"Ya\" untuk menampilkan beberapa sampel dari feed tersimpan Anda 
 
 #: src/screens/Onboarding/Layout.tsx:50
 msgid "Set up your account"
-msgstr ""
+msgstr "Atur akun Anda"
 
 #: src/view/com/modals/ChangeHandle.tsx:266
 msgid "Sets Bluesky username"
