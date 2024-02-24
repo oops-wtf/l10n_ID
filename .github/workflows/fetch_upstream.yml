@@ -18,6 +18,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.WORKFLOW_TOKEN }}
       - run: |
           git config --global user.email "automation@github.com"
           git config --global user.name "fetch_upstream.yml"
