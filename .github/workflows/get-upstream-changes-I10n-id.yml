@@ -19,6 +19,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.ACCESS_TOKEN }}
       - run: |
           git config --global user.email "automation@github.com"
           git config --global user.name "get-upstream-changes-I10n-id.yml"
