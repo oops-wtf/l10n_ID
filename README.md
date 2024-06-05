@@ -14,6 +14,14 @@ Jika semua string sudah diterjemahkan, Anda tetap bisa berkontribusi dengan meng
     - Kata yang memiliki entri glosarium ditandai dengan garis bawah titik-titik (_dotted underline_). Arahkan mouse pada kata tersebut untuk melihat entri glosarium.
     - Utamakan glosarium dan memori penerjemahan Bluesky ID sebelum memori penerjemahan global.
 - Terjemahan yang diusulkan paling akhir otomatis menjadi terjemahan yang terpakai, kecuali terjemahan lain yang sudah ada memiliki vote atau telah di-_approve_. Karena itu, pastikan perubahan yang Anda usulkan memiliki dasar yang cukup. Meski demikian, pada akhirnya admin akan memeriksa semua string sebelum meneruskan terjemahan ke Bluesky.
-- Jika Anda mengusulkan perubahan terjemahan yang sudah ada, sebaiknya sertakan komentar mengenai alasan usulan tersebut, kecuali jika perubahan bersifat _self-explanatory_ misal: memperbaiki typo atau kesalahan penerjemahan yang jelas.
-- Jika perubahan memerlukan tindakan dari admin, misalnya mengusulkan perubahan terhadap terjemahan yang sudah di-_approve_, buatlah komentar dan pada string yang dimaksud dan tandai sebagai _issue_ agar admin memeriksa string yang dimaksud.
+- Jika Anda mengusulkan perubahan terjemahan yang sudah ada, sebaiknya sertakan komentar mengenai alasan usulan tersebut, kecuali jika perubahan bersifat _self-explanatory_ misal: memperbaiki _typo_ atau kesalahan penerjemahan yang jelas.
+- Jika perubahan memerlukan tindakan dari admin, misalnya mengusulkan perubahan terhadap terjemahan yang sudah di-_approve_, buatlah komentar dan tandai sebagai _issue_ agar admin memeriksa string yang dimaksud.
 - Manfaatkan _search_ dan _filter_ untuk menemukan informasi yang diinginkan, misalnya untuk menemukan semua string yang mengandung kata tertentu untuk memastikan konsistensi terjemahan kata tersebut.
+
+### Referensi
+Beberapa rujukan untuk membantu penerjemahan:
+- [Kamus Besar Bahasa Indonesia](https://kbbi.kemdikbud.go.id)
+- [Ejaan Bahasa Indonesia yang Disempurnakan Edisi V](https://ejaan.kemdikbud.go.id)
+- [Microsoft UI search](https://msit.powerbi.com/view?r=eyJrIjoiMmE2NjJhMDMtNTY3MC00MmI2LWFmOWUtYWM5YTVjODI5MjQwIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) - Alat untuk mencari padanan yang dipakai di **antarmuka** semua produk Microsoft. Dapat dijadikan contoh bagaimana suatu istilah diterjemahkan untuk ditampilkan dalam antarmuka aplikasi.
+- [Microsoft terminology search](https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYxNTAxNjQ0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) - Padanan yang dipakai di semua produk Microsoft
+- [Daftar Padanan Istilah (PASTI)](https://pasti.kemdikbud.go.id/istilah_search.php)
