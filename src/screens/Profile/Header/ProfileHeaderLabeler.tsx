@@ -336,7 +336,9 @@ function CantSubscribePrompt({
   const {_} = useLingui()
   return (
     <Prompt.Outer control={control}>
-      <Prompt.TitleText>Unable to subscribe</Prompt.TitleText>
+      <Prompt.TitleText>
+        <Trans>Unable to subscribe</Trans>
+      </Prompt.TitleText>
       <Prompt.DescriptionText>
         <Trans>
           We're sorry! You can only subscribe to twenty labelers, and you've
