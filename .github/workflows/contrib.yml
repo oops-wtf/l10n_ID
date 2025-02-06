@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - upstream
+      - upstream-off
 
 jobs:
   contrib-readme-job:
