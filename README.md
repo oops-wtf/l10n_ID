@@ -55,5 +55,5 @@ Beberapa rujukan untuk membantu penerjemahan:
 - [Daftar Padanan Istilah (PASTI)](https://pasti.kemdikbud.go.id/istilah_search.php)
 
 ### Kontributor
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
+<!-- readme: oops-wtf,kemarau,danninov,thinkbyte1024,mary-ext,GID0317 -start -->
+<!-- readme: oops-wtf,kemarau,danninov,thinkbyte1024,mary-ext,GID0317 -end -->
