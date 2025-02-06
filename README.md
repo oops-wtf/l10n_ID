@@ -53,3 +53,7 @@ Beberapa rujukan untuk membantu penerjemahan:
 - [Microsoft UI search](https://msit.powerbi.com/view?r=eyJrIjoiMmE2NjJhMDMtNTY3MC00MmI2LWFmOWUtYWM5YTVjODI5MjQwIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) - Alat untuk mencari padanan yang dipakai di **antarmuka** semua produk Microsoft. Dapat dijadikan contoh bagaimana suatu istilah diterjemahkan untuk ditampilkan dalam antarmuka aplikasi.
 - [Microsoft terminology search](https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYxNTAxNjQ0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9) - Padanan yang dipakai di semua produk Microsoft
 - [Daftar Padanan Istilah (PASTI)](https://pasti.kemdikbud.go.id/istilah_search.php)
+
+### Kontributor
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
