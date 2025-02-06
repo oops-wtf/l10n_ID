@@ -14,18 +14,27 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - run: |
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "Indonesian"
+          git config --global user.email "github-actions@github.com"
+      
+      - name: Fetch and Update from Upstream
+        run: |
           git remote add upstream https://github.com/bluesky-social/social-app.git
           git fetch upstream main
           git checkout -b export upstream/main
           git restore --source origin/l10n_id src/**/id/*
           git add --all
+          
+      - name: Commit and Push Changes
+        run: |
           if ! git diff-index --quiet HEAD; then
-            git config user.name Indonesian
-            git config user.email github-actions@github.com
             git commit -m 'Update Indonesian translation'
             git push -f origin HEAD
           fi
