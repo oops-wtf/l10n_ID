@@ -59,4 +59,52 @@ Beberapa rujukan untuk membantu penerjemahan:
 ### Kontributor
 
 <!-- readme: oops-wtf,kemarau,danninov,thinkbyte1024,mary-ext,GID0317 -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/oops-wtf">
+                    <img src="https://avatars.githubusercontent.com/u/153840949?v=4" width="100;" alt="oops-wtf"/>
+                    <br />
+                    <sub><b>oops-wtf</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/kemarau">
+                    <img src="https://avatars.githubusercontent.com/u/103604371?v=4" width="100;" alt="kemarau"/>
+                    <br />
+                    <sub><b>kemarau</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/danninov">
+                    <img src="https://avatars.githubusercontent.com/u/14119706?v=4" width="100;" alt="danninov"/>
+                    <br />
+                    <sub><b>Danni</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/thinkbyte1024">
+                    <img src="https://avatars.githubusercontent.com/u/23285884?v=4" width="100;" alt="thinkbyte1024"/>
+                    <br />
+                    <sub><b>thinkbyte1024</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mary-ext">
+                    <img src="https://avatars.githubusercontent.com/u/148872143?v=4" width="100;" alt="mary-ext"/>
+                    <br />
+                    <sub><b>mary</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/gid0317">
+                    <img src="https://avatars.githubusercontent.com/u/108791227?v=4" width="100;" alt="gid0317"/>
+                    <br />
+                    <sub><b>GID</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: oops-wtf,kemarau,danninov,thinkbyte1024,mary-ext,GID0317 -end -->
