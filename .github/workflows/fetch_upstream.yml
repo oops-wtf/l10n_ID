@@ -15,15 +15,23 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.WORKFLOW_TOKEN }}
-      - run: |
+      
+      - name: Configure Git
+        run: |
           git config --global user.email "automation@github.com"
           git config --global user.name "fetch_upstream.yml"
+
+      - name: Fetch and Rebase from Upstream
+        run: |
           git remote add upstream https://github.com/bluesky-social/social-app.git
           git fetch upstream main
-          git checkout --track origin/main
+          git checkout main
           git rebase upstream/main
-          git push -f origin HEAD
+
+      - name: Push Changes
+        run: git push -f origin HEAD
