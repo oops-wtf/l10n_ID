@@ -15,6 +15,7 @@ Ada beberapa cara untuk berkontribusi dalam proyek ini:
 - Mendiskusikan terjemahan lewat halaman diskusi atau kolom komentar pada string terkait
 
 ### Mulai berkontribusi
+
 1. Buat akun Crowdin di https://crowdin.com/join
 2. Login ke Crowdin dengan akun Anda, kemudian kunjungi halaman proyek Bluesky ID di https://crowdin.com/project/bluesky-id
 3. Klik **Indonesian** pada Dashboard untuk membuka daftar file yang akan diterjemahkan, lalu klik tombol hijau **Translate All** untuk membuka editor penerjemahan.
@@ -44,6 +45,7 @@ Proyek ini memiliki ribuan string dan masih terus bertambah. Berikut ini beberap
 - String yang memiliki komentar (diskusi): Klik ikon filter dan pilih **With Comments** (atau buka [tautan ini](https://crowdin.com/editor/bluesky-id/all/en-id?view=comfortable&filter=basic&value=7)).
 
 ### Referensi
+
 Beberapa rujukan untuk membantu penerjemahan:
 - [Kamus Besar Bahasa Indonesia](https://kbbi.kemdikbud.go.id)
 - [Ejaan Bahasa Indonesia yang Disempurnakan Edisi V](https://ejaan.kemdikbud.go.id)
