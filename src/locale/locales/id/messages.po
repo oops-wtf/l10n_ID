@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-02-07 03:35\n"
+"PO-Revision-Date: 2025-02-07 04:39\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -903,7 +903,7 @@ msgstr "Anda yakin?"
 
 #: src/view/com/composer/select-language/SuggestedLanguage.tsx:69
 msgid "Are you writing in <0>{suggestedLanguageName}</0>?"
-msgstr ""
+msgstr "Apakah Anda menulis dalam <0>{suggestedLanguageName}</0>?"
 
 #: src/screens/Onboarding/index.tsx:23
 #: src/screens/Onboarding/state.ts:95
@@ -1392,7 +1392,7 @@ msgstr "Pilih warna ini sebagai avatar Anda"
 
 #: src/view/com/auth/server-input/index.tsx:126
 msgid "Choose your account provider"
-msgstr ""
+msgstr "Pilih penyedia akun Anda"
 
 #: src/view/screens/Feeds.tsx:728
 #: src/view/screens/Search/Explore.tsx:427
@@ -1964,7 +1964,7 @@ msgstr "Hapus catatan deklarasi obrolan"
 #: src/components/dms/ReportDialog.tsx:353
 #: src/components/dms/ReportDialog.tsx:356
 msgid "Delete conversation"
-msgstr ""
+msgstr "Hapus percakapan"
 
 #: src/components/dms/ReportDialog.tsx:327
 msgid "Delete Conversation"
