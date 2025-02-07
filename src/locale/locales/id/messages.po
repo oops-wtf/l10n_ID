@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-02-06 19:08\n"
+"PO-Revision-Date: 2025-02-07 03:35\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1004,11 +1004,11 @@ msgstr "Blokir akun"
 
 #: src/components/dms/ReportDialog.tsx:325
 msgid "Block and Delete"
-msgstr ""
+msgstr "Blokir dan Hapus"
 
 #: src/components/dms/ReportDialog.tsx:343
 msgid "Block and/or delete this conversation"
-msgstr ""
+msgstr "Blokir dan/atau hapus percakapan ini"
 
 #: src/view/screens/ProfileList.tsx:760
 msgid "Block list"
@@ -1021,11 +1021,11 @@ msgstr "Blokir akun-akun ini?"
 #: src/components/dms/ReportDialog.tsx:347
 #: src/components/dms/ReportDialog.tsx:350
 msgid "Block user"
-msgstr ""
+msgstr "Blokir pengguna"
 
 #: src/components/dms/ReportDialog.tsx:329
 msgid "Block User"
-msgstr ""
+msgstr "Blokir pengguna"
 
 #: src/view/com/util/post-embeds/QuoteEmbed.tsx:83
 msgid "Blocked"
