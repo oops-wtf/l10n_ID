@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bsky-social-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-02-07 00:25\n"
+"PO-Revision-Date: 2025-02-07 00:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Crowdin-Project-ID: 640936\n"
 "X-Crowdin-Language: id\n"
 "X-Crowdin-File: /main/src/locale/locales/en/messages.po\n"
-"X-Crowdin-File-ID: 44\n"
+"X-Crowdin-File-ID: 46\n"
 
 #: src/components/ProgressGuide/FollowDialog.tsx:567
 msgid "(active)"
@@ -160,7 +160,7 @@ msgstr "{0}j"
 #. How many minutes have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:138
 msgid "{0}m"
-msgstr ""
+msgstr "{0}m"
 
 #. How many months have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:169
@@ -634,7 +634,7 @@ msgstr "Sudah masuk sebagai @{0}"
 #: src/view/com/composer/photos/Gallery.tsx:187
 #: src/view/com/util/post-embeds/GifEmbed.tsx:186
 msgid "ALT"
-msgstr ""
+msgstr "ALT"
 
 #: src/screens/Settings/AccessibilitySettings.tsx:56
 #: src/view/com/composer/GifAltText.tsx:154
@@ -1067,12 +1067,12 @@ msgstr "Memblokir tidak akan mencegah label diterapkan pada akun Anda, tetapi ak
 
 #: src/view/com/auth/SplashScreen.web.tsx:173
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: src/view/com/auth/server-input/index.tsx:132
 #: src/view/com/auth/server-input/index.tsx:133
 msgid "Bluesky"
-msgstr ""
+msgstr "Bluesky"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:859
 msgid "Bluesky cannot confirm the authenticity of the claimed date."
@@ -2397,7 +2397,7 @@ msgstr ""
 #: src/screens/Signup/StepInfo/index.tsx:164
 #: src/view/com/modals/ChangeEmail.tsx:136
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: src/screens/Settings/components/DisableEmail2FADialog.tsx:64
 msgid "Email 2FA disabled"
@@ -2805,7 +2805,7 @@ msgstr ""
 
 #: src/Navigation.tsx:232
 msgid "Feed"
-msgstr ""
+msgstr "Feed"
 
 #: src/components/FeedCard.tsx:134
 #: src/view/com/feeds/FeedSourceCard.tsx:253
@@ -3030,7 +3030,7 @@ msgstr "Mengikuti Anda"
 
 #: src/screens/Settings/AppearanceSettings.tsx:140
 msgid "Font"
-msgstr ""
+msgstr "Font"
 
 #: src/screens/Settings/AppearanceSettings.tsx:160
 msgid "Font size"
@@ -3106,7 +3106,7 @@ msgstr "Memulai"
 
 #: src/components/MediaPreview.tsx:122
 msgid "GIF"
-msgstr ""
+msgstr "GIF"
 
 #: src/screens/Onboarding/StepProfile/index.tsx:234
 msgid "Give your profile a face"
@@ -3371,7 +3371,7 @@ msgstr "Beranda"
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:398
 msgid "Host:"
-msgstr ""
+msgstr "Host:"
 
 #: src/screens/Login/ForgotPasswordForm.tsx:83
 #: src/screens/Login/LoginForm.tsx:176
@@ -3962,7 +3962,7 @@ msgstr "Tandai telah dibaca"
 
 #: src/view/screens/Profile.tsx:235
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:211
 msgid "Media that may be disturbing or inappropriate for some audiences."
@@ -3983,7 +3983,7 @@ msgstr ""
 #: src/components/Menu/index.tsx:103
 #: src/view/screens/Search/Search.tsx:862
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: src/components/dms/MessageProfileButton.tsx:82
 msgid "Message {0}"
@@ -4578,7 +4578,7 @@ msgstr "Oh tidak! Ada yang tidak beres."
 #: src/screens/Settings/AppIconSettings/index.tsx:48
 #: src/screens/Settings/AppIconSettings/index.tsx:229
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: src/screens/Login/PasswordUpdatedForm.tsx:37
 #: src/view/com/post-thread/PostThreadItem.tsx:864
@@ -6514,7 +6514,7 @@ msgstr "Asal:"
 #: src/lib/moderation/useReportOptions.ts:72
 #: src/lib/moderation/useReportOptions.ts:85
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: src/lib/moderation/useReportOptions.ts:55
 msgid "Spam; excessive mentions or replies"
@@ -6590,7 +6590,7 @@ msgstr "Penyimpanan dibersihkan, Anda perlu memulai ulang aplikasi sekarang."
 #: src/Navigation.tsx:247
 #: src/screens/Settings/Settings.tsx:325
 msgid "Storybook"
-msgstr ""
+msgstr "Storybook"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:299
 #: src/components/moderation/LabelsOnMeDialog.tsx:300
@@ -7315,7 +7315,7 @@ msgstr "Coba lagi"
 
 #: src/screens/Onboarding/state.ts:115
 msgid "TV"
-msgstr ""
+msgstr "TV"
 
 #: src/screens/Settings/PrivacyAndSecuritySettings.tsx:56
 msgid "Two-factor authentication (2FA)"
@@ -7726,7 +7726,7 @@ msgstr ""
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:83
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:134
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: src/view/com/composer/state/video.ts:358
 msgid "Video failed to process"
@@ -7767,7 +7767,7 @@ msgstr ""
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/VideoEmbedInnerNative.tsx:83
 msgid "Video: {0}"
-msgstr ""
+msgstr "Video: {0}"
 
 #: src/view/screens/Profile.tsx:236
 msgid "Videos"
