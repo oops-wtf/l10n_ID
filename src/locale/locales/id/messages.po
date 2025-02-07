@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-02-07 04:39\n"
+"PO-Revision-Date: 2025-02-07 17:32\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -1093,7 +1093,7 @@ msgstr "Bluesky lebih seru jika bersama teman!"
 
 #: src/screens/Takendown.tsx:217
 msgid "Bluesky Social Terms of Service"
-msgstr ""
+msgstr "Kebijakan Layanan Bluesky Social"
 
 #: src/components/StarterPack/ProfileStarterPacks.tsx:299
 msgid "Bluesky will choose a set of recommended accounts from people in your network."
@@ -1313,7 +1313,7 @@ msgstr "Ubah Kata Sandi"
 
 #: src/view/com/composer/select-language/SuggestedLanguage.tsx:82
 msgid "Change post language to {suggestedLanguageName}"
-msgstr ""
+msgstr "Ubah bahasa postingan ke {suggestedLanguageName}"
 
 #: src/view/com/modals/ChangeEmail.tsx:104
 msgid "Change Your Email"
@@ -1433,7 +1433,7 @@ msgstr "Klik untuk mengaktifkan kutipan pada postingan ini."
 
 #: src/components/RichTextTag.tsx:54
 msgid "Click to open tag menu for {tag}"
-msgstr ""
+msgstr "Klik untuk membuka menu tagar untuk {tag}"
 
 #: src/components/dms/MessageItem.tsx:241
 msgid "Click to retry failed message"
@@ -1968,7 +1968,7 @@ msgstr "Hapus percakapan"
 
 #: src/components/dms/ReportDialog.tsx:327
 msgid "Delete Conversation"
-msgstr ""
+msgstr "Hapus Percakapan"
 
 #: src/components/dms/MessageMenu.tsx:124
 msgid "Delete for me"
@@ -2227,7 +2227,7 @@ msgstr "Ketuk dua kali untuk menutup dialog"
 
 #: src/screens/VideoFeed/index.tsx:1039
 msgid "Double tap to like"
-msgstr ""
+msgstr "Ketuk dua kali untuk menyukai"
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:317
 msgid "Download Bluesky"
@@ -2496,7 +2496,7 @@ msgstr "Nyalakan topik trending"
 
 #: src/screens/Settings/ContentAndMediaSettings.tsx:158
 msgid "Enable trending videos in your Discover feed"
-msgstr ""
+msgstr "Aktfikan video trending dalam feed Discover Anda"
 
 #: src/screens/Settings/ContentAndMediaSettings.tsx:144
 msgid "Enable trending videos in your Discover feed."
@@ -2917,7 +2917,7 @@ msgstr "Ikuti {0}"
 
 #: src/screens/VideoFeed/index.tsx:800
 msgid "Follow {handle}"
-msgstr ""
+msgstr "Ikuti {handle}"
 
 #: src/view/com/posts/AviFollowButton.tsx:68
 msgid "Follow {name}"
@@ -3004,7 +3004,7 @@ msgstr "Mengikuti {0}"
 
 #: src/screens/VideoFeed/index.tsx:799
 msgid "Following {handle}"
-msgstr ""
+msgstr "Mengikuti {handle}"
 
 #: src/view/com/posts/AviFollowButton.tsx:50
 msgid "Following {name}"
@@ -3225,7 +3225,7 @@ msgstr "Tagar"
 
 #: src/components/RichTextTag.tsx:51
 msgid "Hashtag {tag}"
-msgstr ""
+msgstr "Tagar {tag}"
 
 #: src/screens/Signup/index.tsx:173
 msgid "Having trouble?"
@@ -3250,11 +3250,11 @@ msgstr "Berikut adalah sandi aplikasi Anda!"
 #: src/components/VideoPostCard.tsx:172
 #: src/components/VideoPostCard.tsx:448
 msgid "Hidden"
-msgstr ""
+msgstr "Disembunyikan"
 
 #: src/screens/VideoFeed/index.tsx:606
 msgid "Hidden by your moderation settings."
-msgstr ""
+msgstr "Disembunyikan berdasarkan aturan moderasi Anda."
 
 #: src/components/ListCard.tsx:130
 msgid "Hidden list"
@@ -3323,7 +3323,7 @@ msgstr "Sembunyikan topik trending?"
 
 #: src/components/interstitials/TrendingVideos.tsx:138
 msgid "Hide trending videos?"
-msgstr ""
+msgstr "Sembunyikan video trending?"
 
 #: src/view/com/notifications/NotificationFeedItem.tsx:592
 msgid "Hide user list"
@@ -3440,7 +3440,7 @@ msgstr "Jika Anda ingin mengubah kata sandi, kami akan mengirimkan kode untuk me
 
 #: src/view/com/auth/server-input/index.tsx:204
 msgid "If you're a developer, you can host your own server."
-msgstr ""
+msgstr "Jika Anda merupakan pengembang, Anda bisa menghosting peladen Anda sendiri."
 
 #: src/screens/Settings/components/DeactivateAccountDialog.tsx:92
 msgid "If you're trying to change your handle or email, do so before you deactivate."
@@ -3899,7 +3899,7 @@ msgstr "Keluar"
 
 #: src/screens/Takendown.tsx:88
 msgid "Log Out"
-msgstr ""
+msgstr "Keluar"
 
 #: src/screens/Settings/PrivacyAndSecuritySettings.tsx:78
 msgid "Logged-out visibility"
@@ -4121,7 +4121,7 @@ msgstr "Bisukan"
 #: src/components/RichTextTag.tsx:140
 #: src/components/RichTextTag.tsx:153
 msgid "Mute {tag}"
-msgstr ""
+msgstr "Bisukan {tag}"
 
 #: src/view/com/profile/ProfileMenu.tsx:259
 #: src/view/com/profile/ProfileMenu.tsx:266
@@ -4396,7 +4396,7 @@ msgstr "Tidak lagi mengikuti {0}"
 
 #: src/screens/Signup/StepHandle.tsx:173
 msgid "No longer than {0} characters"
-msgstr ""
+msgstr "Tidak lebih dari {0} karakter"
 
 #: src/screens/Messages/components/ChatListItem.tsx:124
 msgid "No messages yet"
@@ -5970,15 +5970,15 @@ msgstr ""
 
 #: src/components/RichTextTag.tsx:124
 msgid "See {tag} posts by user"
-msgstr ""
+msgstr "Lihat postingan {tag} dari pengguna"
 
 #: src/components/RichTextTag.tsx:118
 msgid "See #{tag} posts"
-msgstr ""
+msgstr "Lihat postingan #{tag}"
 
 #: src/components/RichTextTag.tsx:132
 msgid "See #{tag} posts by user"
-msgstr ""
+msgstr "Lihat postingan #{tag} dari pengguna"
 
 #: src/view/com/auth/SplashScreen.web.tsx:176
 msgid "See jobs at Bluesky"
@@ -6601,11 +6601,11 @@ msgstr "Kirim"
 
 #: src/screens/Takendown.tsx:70
 msgid "Submit appeal"
-msgstr ""
+msgstr "Ajukan banding"
 
 #: src/screens/Takendown.tsx:76
 msgid "Submit Appeal"
-msgstr ""
+msgstr "Ajukan Banding"
 
 #: src/view/screens/ProfileList.tsx:712
 msgid "Subscribe"
@@ -6664,7 +6664,7 @@ msgstr "Beralih Akun"
 
 #: src/view/shell/desktop/LeftNav.tsx:107
 msgid "Switch accounts"
-msgstr ""
+msgstr "Ganti akun"
 
 #: src/view/shell/desktop/LeftNav.tsx:251
 msgid "Switch to {0}"
