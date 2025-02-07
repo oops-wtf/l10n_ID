@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-02-07 17:32\n"
+"PO-Revision-Date: 2025-02-07 18:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -4913,7 +4913,7 @@ msgstr "Gambar yang ditujukan untuk orang dewasa."
 #: src/screens/Search/components/ExploreTrendingVideos.tsx:173
 #: src/screens/Search/components/ExploreTrendingVideos.tsx:178
 msgid "Pin"
-msgstr ""
+msgstr "Sematkan"
 
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:519
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:526
@@ -4922,7 +4922,7 @@ msgstr "Sematkan feed"
 
 #: src/screens/Search/components/ExploreTrendingVideos.tsx:167
 msgid "Pin the trending videos feed to your home screen for easy access"
-msgstr ""
+msgstr "Sematkan feed video trending pada beranda Anda untuk kemudahan akses"
 
 #: src/view/screens/ProfileList.tsx:685
 msgid "Pin to home"
@@ -5001,7 +5001,7 @@ msgstr "Harap konfirmasi email Anda sebelum mengubahnya. Ini adalah persyaratan 
 
 #: src/screens/Login/SetNewPasswordForm.tsx:56
 msgid "Please enter a password."
-msgstr ""
+msgstr "Silakan masukkan kata sandi."
 
 #: src/screens/Settings/components/AddAppPasswordDialog.tsx:114
 msgid "Please enter a unique name for this app password or use our randomly generated one."
@@ -5331,7 +5331,7 @@ msgstr ""
 
 #: src/screens/VideoFeed/index.tsx:934
 msgid "Read more"
-msgstr ""
+msgstr "Baca lebih lanjut"
 
 #: src/view/com/auth/SplashScreen.web.tsx:171
 msgid "Read the Bluesky blog"
@@ -5966,7 +5966,7 @@ msgstr "Langkah Keamanan Diperlukan"
 
 #: src/components/RichTextTag.tsx:111
 msgid "See {tag} posts"
-msgstr ""
+msgstr "Lihat postingan {tag}"
 
 #: src/components/RichTextTag.tsx:124
 msgid "See {tag} posts by user"
