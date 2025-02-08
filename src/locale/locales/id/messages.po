@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-02-08 01:43\n"
+"PO-Revision-Date: 2025-02-08 08:27\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -4826,7 +4826,7 @@ msgstr "Lainnya..."
 
 #: src/components/dms/ReportDialog.tsx:339
 msgid "Our moderation team has received your report."
-msgstr ""
+msgstr "Tim moderasi kami telah menerima laporan Anda."
 
 #: src/screens/Messages/components/ChatDisabled.tsx:28
 msgid "Our moderators have reviewed reports and decided to disable your access to chats on Bluesky."
@@ -5022,7 +5022,7 @@ msgstr "Silakan masukkan kode undangan Anda."
 
 #: src/screens/Login/LoginForm.tsx:95
 msgid "Please enter your password"
-msgstr ""
+msgstr "Silakan masukkan kata sandi"
 
 #: src/view/com/modals/DeleteAccount.tsx:235
 msgid "Please enter your password as well:"
@@ -5056,7 +5056,7 @@ msgstr "Politik"
 
 #: src/screens/Search/components/ExploreTrendingVideos.tsx:116
 msgid "Popular videos in your network."
-msgstr ""
+msgstr "Video populer di jaringan Anda."
 
 #: src/view/com/composer/labels/LabelsBtn.tsx:157
 msgid "Porn"
@@ -5350,7 +5350,7 @@ msgstr "Baca Ketentuan Layanan Bluesky"
 #: src/screens/Takendown.tsx:162
 #: src/screens/Takendown.tsx:170
 msgid "Reason for appeal"
-msgstr ""
+msgstr "Alasan banding"
 
 #: src/components/dms/ReportDialog.tsx:210
 msgid "Reason:"
@@ -6668,7 +6668,7 @@ msgstr "Ganti akun"
 
 #: src/view/shell/desktop/LeftNav.tsx:251
 msgid "Switch to {0}"
-msgstr ""
+msgstr "Beralih ke {0}"
 
 #: src/screens/Settings/AppearanceSettings.tsx:97
 #: src/screens/Settings/AppearanceSettings.tsx:147
@@ -7747,11 +7747,11 @@ msgstr "Permainan Video"
 
 #: src/screens/VideoFeed/index.tsx:1031
 msgid "Video is paused"
-msgstr ""
+msgstr "Video telah dijeda"
 
 #: src/screens/VideoFeed/index.tsx:1031
 msgid "Video is playing"
-msgstr ""
+msgstr "Video sedang diputar"
 
 #: src/view/com/util/post-embeds/VideoEmbed.web.tsx:191
 msgid "Video not found."
@@ -7771,7 +7771,7 @@ msgstr "Video: {0}"
 
 #: src/view/screens/Profile.tsx:236
 msgid "Videos"
-msgstr ""
+msgstr "Video"
 
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:58
 #: src/view/com/composer/videos/SelectVideoBtn.tsx:73
@@ -8412,7 +8412,7 @@ msgstr "Akun Anda telah dihapus"
 
 #: src/screens/Takendown.tsx:146
 msgid "Your account has been suspended"
-msgstr ""
+msgstr "Akun Anda telah ditangguhkan"
 
 #: src/view/com/composer/state/video.ts:429
 msgid "Your account is not yet old enough to upload videos. Please try again later."
@@ -8424,11 +8424,11 @@ msgstr "Semua catatan data publik dalam repositori akun Anda dapat diunduh sebag
 
 #: src/screens/Takendown.tsx:214
 msgid "Your account was found to be in violation of the <0>Bluesky Social Terms of Service</0>. You have been sent an email outlining the specific violation and suspension period, if applicable. You can appeal this decision if you believe it was made in error."
-msgstr ""
+msgstr "Akun Anda ditemukan melanggar <0>Kebijakan Layanan Bluesky Social</0>. Anda telah dikirimkan email yang menguraikan pelanggaran specific dan periode tangguhan, jika berlaku. Anda dapat mengajukan banding atas keputusan ini jika Anda yakin bahwa keputusan tersebut dibuat karena kesalahan."
 
 #: src/screens/Takendown.tsx:154
 msgid "Your appeal has been submitted. If your appeal succeeds, you will receive an email."
-msgstr ""
+msgstr "Banding Anda telah diajukan. Jika banding Anda berhasil, Anda akan menerima email."
 
 #: src/screens/Signup/StepInfo/index.tsx:205
 msgid "Your birth date"
