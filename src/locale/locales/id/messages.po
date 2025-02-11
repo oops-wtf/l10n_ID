@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-02-08 08:27\n"
+"PO-Revision-Date: 2025-02-11 14:12\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -5030,7 +5030,7 @@ msgstr "Masukkan juga kata sandi Anda:"
 
 #: src/screens/Login/LoginForm.tsx:90
 msgid "Please enter your username"
-msgstr ""
+msgstr "Silakan masukkan nama pengguna Anda"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:265
 msgid "Please explain why you think this label was incorrectly applied by {0}"
@@ -5630,7 +5630,7 @@ msgstr "Laporkan paket pemula"
 
 #: src/components/dms/ReportDialog.tsx:336
 msgid "Report submitted"
-msgstr ""
+msgstr "Laporan dikirim"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:41
 msgid "Report this content"
