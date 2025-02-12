@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-02-11 14:12\n"
+"PO-Revision-Date: 2025-02-12 11:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6821,7 +6821,7 @@ msgstr "Sekian!"
 
 #: src/screens/VideoFeed/index.tsx:1073
 msgid "That's everything!"
-msgstr ""
+msgstr "Itu semuanya!"
 
 #: src/screens/Profile/Header/ProfileHeaderStandard.tsx:279
 #: src/view/com/profile/ProfileMenu.tsx:329
@@ -7306,7 +7306,7 @@ msgstr "Trending"
 #: src/components/interstitials/TrendingVideos.tsx:88
 #: src/screens/Search/components/ExploreTrendingVideos.tsx:106
 msgid "Trending Videos"
-msgstr ""
+msgstr "Video Trending"
 
 #: src/view/com/util/error/ErrorScreen.tsx:103
 msgctxt "action"
@@ -7414,7 +7414,7 @@ msgstr "Berhenti Ikuti Akun"
 
 #: src/screens/VideoFeed/index.tsx:803
 msgid "Unfollow user"
-msgstr ""
+msgstr "Berhenti ikuti pengguna"
 
 #: src/screens/Profile/components/ProfileFeedHeader.tsx:514
 msgid "Unlike"
@@ -7734,11 +7734,11 @@ msgstr "Video gagal diproses"
 
 #: src/Navigation.tsx:430
 msgid "Video Feed"
-msgstr ""
+msgstr "Feed video"
 
 #: src/components/VideoPostCard.tsx:116
 msgid "Video from {0}: {text}"
-msgstr ""
+msgstr "Video dari {0}: {text}"
 
 #: src/screens/Onboarding/index.tsx:39
 #: src/screens/Onboarding/state.ts:103
@@ -8032,11 +8032,11 @@ msgstr "Waduh!"
 #: src/components/interstitials/TrendingVideos.tsx:127
 #: src/screens/Search/components/ExploreTrendingVideos.tsx:147
 msgid "Whoops! Trending videos failed to load."
-msgstr ""
+msgstr "Ups! Video trending gagal memuat."
 
 #: src/screens/Takendown.tsx:173
 msgid "Why are you appealing?"
-msgstr ""
+msgstr "Mengapa Anda ajukan banding?"
 
 #: src/components/ReportDialog/SelectReportOptionView.tsx:42
 msgid "Why should this content be reviewed?"
@@ -8400,7 +8400,7 @@ msgstr "Anda telah mencapai batas harian unggahan video (terlalu banyak video)"
 
 #: src/screens/VideoFeed/index.tsx:1082
 msgid "You've run out of videos to watch. Maybe it's a good time to take a break?"
-msgstr ""
+msgstr "Anda kehabisan video untuk ditonton. Mungkin sudah saatnya untuk istirahat?"
 
 #: src/screens/Signup/index.tsx:140
 msgid "Your account"
