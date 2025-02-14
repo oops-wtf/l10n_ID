@@ -8,7 +8,7 @@ msgstr ""
 "Language: id\n"
 "Project-Id-Version: bluesky-id\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-02-12 11:50\n"
+"PO-Revision-Date: 2025-02-14 03:19\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -6721,7 +6721,7 @@ msgstr "Ketuk untuk melihat gambar penuh"
 
 #: src/components/VideoPostCard.tsx:115
 msgid "Tap to view video in immersive mode."
-msgstr ""
+msgstr "Ketuk untuk melihat video dalam mode imersif."
 
 #: src/state/shell/progress-guide.tsx:233
 msgid "Task complete - 10 follows!"
@@ -6779,7 +6779,7 @@ msgstr "Teks & tagar"
 
 #: src/components/dms/ReportDialog.tsx:227
 msgid "Text field"
-msgstr ""
+msgstr "Kolom teks"
 
 #: src/components/moderation/LabelsOnMeDialog.tsx:263
 #: src/screens/Messages/components/ChatDisabled.tsx:108
@@ -7437,7 +7437,7 @@ msgstr "Bunyikan"
 #: src/components/RichTextTag.tsx:140
 #: src/components/RichTextTag.tsx:153
 msgid "Unmute {tag}"
-msgstr ""
+msgstr "Bunyikan {tag}"
 
 #: src/view/com/profile/ProfileMenu.tsx:258
 #: src/view/com/profile/ProfileMenu.tsx:264
@@ -7828,7 +7828,7 @@ msgstr "Lihat informasi tentang label ini"
 #: src/screens/Search/components/ExploreTrendingVideos.tsx:231
 #: src/screens/Search/components/ExploreTrendingVideos.tsx:250
 msgid "View more"
-msgstr ""
+msgstr "Lihat lainnya"
 
 #: src/components/ProfileHoverCard/index.web.tsx:419
 #: src/components/ProfileHoverCard/index.web.tsx:439
@@ -7854,7 +7854,7 @@ msgstr "Lihat pengguna yang menyukai feed ini"
 
 #: src/components/VideoPostCard.tsx:392
 msgid "View video"
-msgstr ""
+msgstr "Lihat video"
 
 #: src/screens/Moderation/index.tsx:248
 msgid "View your blocked accounts"
